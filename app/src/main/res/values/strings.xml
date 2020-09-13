@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LabsChecker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="groop">Группа:</string>
+    <string name="lastname">Фамилия:</string>
+    <string name="name">Имя:</string>
+    <string name="set_date">Установить дату защиты последней работы</string>
+    <string name="next">Дальше</string>
+    <string name="exit">Выход</string>
+    <string name="to_begin">В начало</string>
+    <string name="last_date_zach">Дата последней защиты:</string>
+    <string name="next_zach_date">Дата защиты следующих лабораторных:</string>
+    <string name="other_value">Осталось защитить</string>
+    <string name="value_zach">Количество зачетов</string>
+    <string name="make_labs">Сделано</string>
+    <string name="save">Сохранить</string>
+    <string name="load">Загрузить</string>
+</resources>

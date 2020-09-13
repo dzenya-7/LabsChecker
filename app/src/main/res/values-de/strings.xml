@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LabsChecker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="groop">Gruppe</string>
+    <string name="lastname">Nachname</string>
+    <string name="name">Vorname:</string>
+    <string name="set_date">aufstellen datum des letzten Schutze</string>
+    <string name="next">Weiter</string>
+    <string name="exit">Ausweg</string>
+    <string name="to_begin">Zu Begin</string>
+    <string name="last_date_zach">Datum des letzten Schutze</string>
+    <string name="next_zach_date">Datum des nachten Schutze</string>
+    <string name="other_value">Es bleibt zu shutzen</string>
+    <string name="value_zach">Anzahl der Punkte</string>
+    <string name="make_labs">Getan</string>
+    <string name="save">Save</string>
+    <string name="load">Beladen</string>
+</resources>
